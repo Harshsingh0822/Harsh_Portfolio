@@ -61,11 +61,11 @@ const portfolioContainer = document.getElementById("portfolio-container");
 
 const portfolioData = [
         { imageSrc: "images/Skills logo/C++_img.png", title: "C++", category: "Language and Framework" },
-        { imageSrc: "images/Skills logo/CSS_img.png", title: "CSS", category: "Language and Framework" },
-        { imageSrc: "images/Skills logo/HTML_img.png", title: "HTML", category: "Language and Framework" },
-        { imageSrc: "images/Skills logo/javascript_img.png", title: "Javascript", category: "Language and Framework" },
         { imageSrc: "images/Skills logo/Rstudio_img.png", title: "R Studios", category: "Language and Framework" },
         { imageSrc: "images/Skills logo/SQL_img.png", title: "SQL", category: "Language and Framework" },
+        { imageSrc: "images/Skills logo/CSS_img.png", title: "CSS", category: "Language and Framework" },
+        { imageSrc: "images/Skills logo/HTML_img.png", title: "HTML", category: "Language and Framework" },
+        { imageSrc: "images/Skills logo/javascript_img.png", title: "JS", category: "Language and Framework" },
     { imageSrc: "images/Skills logo/Arena_img.jpeg", title: "Arena", category: "Software" },
     { imageSrc: "images/Skills logo/Canva_img.jpeg", title: "Canva", category: "Software" },
     { imageSrc: "images/Skills logo/Excell_img.png", title: "Excell", category: "Software" },
